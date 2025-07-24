@@ -26,3 +26,4 @@
 
 - Não utilizar caracteres especiais nos nomes de classe, propriedades, métodos e variável
 - única exceção é o _(underline)
+
